@@ -38352,7 +38352,7 @@ A.nQ.prototype={
 N(a){var s,r=null,q="4zMMC9srt5Ri5X14GAgXhaHii3GnPAEERYPJgZJDncDU",p=A.az5(q).length
 if(p!==32)A.a4(A.eq(q,"data","Expected 32 bytes, got "+p))
 p=t.N
-s=A.agd(r,"link.espressocash.com","",A.ax(["k",this.c],p,p),"https")
+s=A.agd(r,"","",A.ax(["k",this.c],p,p),"espressocash")
 return new A.uI(A.hf()===B.a9||A.hf()===B.al?new A.GM(s,r):new A.CU(s,r),r)}}
 A.GM.prototype={
 N(a){var s,r,q,p,o=B.Cv.rs(0,120),n=t.wr,m=A.fL(a,B.aJ,n)
